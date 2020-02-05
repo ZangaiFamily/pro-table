@@ -1,8 +1,8 @@
 {
   "name": "@ant-design/pro-table",
   "version": "2.0.1",
-  "description": "🏆 Use Ant Design Table like a Pro!",
-  "repository": "https://github.com/ant-design/pro-table",
+  "description": "Hotfix: 🏆 Use Ant Design Table like a Pro!",
+  "repository": "https://github.com/zangai-family/pro-table",
   "license": "MIT",
   "files": [
     "/lib",
